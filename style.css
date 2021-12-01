@@ -1,0 +1,188 @@
+body {
+  background-color: #ffffff;
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+}
+
+p {
+  line-height: 2;
+}
+
+.top {
+  /* background: linear-gradient(
+    360deg,
+    #1f005c,
+    #540083,
+    #a200a9,
+    #d00099,
+    #f60069,
+    #ff1e38,
+    #ff6844,
+    #ffb56b
+  ); */
+  /* background: linear-gradient(180deg, #022777, #31689f, #85a7bc); */
+  /* background-color: #022777; */
+  background-color: #EAF6F6;
+}
+.p1 {
+  color: #66BFBF;
+  margin-top: 10px;
+  margin-bottom: 60px;
+  font-size: 250%; /* 16px = 100% = 1em */
+  /* font-size: 2.5rem; /* 16px = 100% = 1em */
+  font-family: "Source Code Pro", monospace;
+  font-weight: normal;
+}
+
+h1 {
+  margin: 10px auto 0 auto;
+  font-family: "Dancing Script", cursive;
+  font-size: 70px;
+  color: #66BFBF;
+}
+
+.mountain {
+  width: 850px;
+  height: 473px;
+}
+.bcloud {
+  position: absolute;
+}
+.tcloud {
+  position: relative;
+  left: 266px;
+  margin-bottom: 25px;
+  margin-top: 10px;
+}
+.skill-row {
+  width: 50%;
+  /* display: inline-block; */
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skillimg1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skillimg2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+h3 {
+  color: #66bfbf;
+  font-family: 'Shippori Antique B1', sans-serif;
+}
+h2 {
+  padding-bottom: 10px;
+  color: #66bfbf;
+  font-family: 'Shippori Antique B1', sans-serif;
+}
+
+hr {
+  border: 6px dotted #eaf6f6;
+  border-style: none none dotted;
+  width: 7%;
+  margin: 70px auto;
+}
+
+.contactp {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 50px 0 20px;
+}
+
+.middle-container {
+  margin: 100px 0px;
+}
+
+#CR {
+  margin-bottom: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #11999e;
+  font-family: "Source Code Pro", monospace;
+  margin: 10px 20px;
+}
+
+a:hover{
+  color: #eaf6f6;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: "Source Code Pro", monospace;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+#CR{
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.pp{
+  width: 70px;
+}
+
+/* .top {
+  border: solid 10px;
+  padding: 20px;
+  height: 200px;
+  width: 200px;
+} 
+
+.middle {
+  border: solid 20px;
+  height: 200px;
+  width: 200px;
+  margin-left: 260px;
+ /* display: block;
+  float: left;  */
+/* background-color: #ff0075;  */
+/* }  */
+/* .bottom { */
+/* border: solid 10px; */
+/* height: 200px; */
+/* width: 200px; */
+/* margin-left: 500px; */
+/* display: block;
+  float: center; */
+/* background-color: darkgoldenrod; */
+/* }  */
